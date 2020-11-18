@@ -1,2 +1,5 @@
 # Ucode-Refresh-Marathon-C
-My repository in "Refresh Marathon C" during stage 2 in UCode Connect Kharkiv
+Welcome!
+This is my git repository with a "Refresh marathon C" challenge of the course in Ucode connect Kharkiv.
+Oracle mark: 100
+^ ^
